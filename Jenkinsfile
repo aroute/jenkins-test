@@ -1,3 +1,5 @@
+# Comment
+
 def label = "waiting-game-${UUID.randomUUID().toString()}"
 
 podTemplate(label: label, 
